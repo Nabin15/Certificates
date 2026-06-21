@@ -1,4 +1,4 @@
-# 🐍 Python & SQL Certificates
+# 🐍 Python, SQL & Power BI Certificates
 
 This repository contains my collection of **Python programming certificates**, demonstrating my learning journey and expertise in data analysis, statistics, and efficient coding practices.
 
@@ -20,7 +20,7 @@ Each certificate is stored in PDF format. You can open them directly from this r
 
 ## 📌 About
 
-These certificates cover a wide range of Python skills, including:
+These certificates cover a wide range of Python, SQL & Power BI tools including:
 
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis  
